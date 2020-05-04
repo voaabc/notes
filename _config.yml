@@ -9,7 +9,7 @@
 title: AIOps
 brief-intro: 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://voaabc.github.io/notes/" # the base hostname & protocol for your site
+url: "https://www.aiops.host" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
