@@ -29,7 +29,7 @@ mysql02 | 192.168.1.230 | Centos 6.5|  MySQL5.6 |  slave
 
 
 ## 安装
-[Shell脚本部署MySQL5.6](http://www.bigdatadeeplearning.com/2017/12/23/Shell-install-MySQL5.6/)
+[Shell脚本部署MySQL5.6](http://www.3.com/2017/12/23/Shell-install-MySQL5.6/)
 
 ## 配置
 
